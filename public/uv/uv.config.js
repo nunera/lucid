@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/u/',
-    bare: '/bear/',
+    bare: 'https://bare-server.nunera.workers.dev/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
